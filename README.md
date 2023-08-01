@@ -1,5 +1,6 @@
 ━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷 
+<img src="https://views-counter.vercel.app/badge?pageId=jsisingh007%2FViews-Counter" alt="Views Counter">
 
  
 **[ jaisinghh007/jaisingh007 ](httsp://github.com/jaisingh007/jaisingh007)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +8,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
-    <img src="https://views-counter.vercel.app/badge?pageId=jsisingh007%2FViews-Counter" alt="Views Counter"><img align="middle" src="https://profile-counter.glitch.me/jaisingh007/count.svg" />
+    <img align="middle" src="https://profile-counter.glitch.me/jaisingh007/count.svg" />
 </p>
 
 
